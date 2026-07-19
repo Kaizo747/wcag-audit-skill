@@ -1,0 +1,20 @@
+# Sample Report
+
+## Accessibility Audit Results
+
+- Project: Demo app
+- Standard: WCAG 2.2 AA
+- Mode: Full
+
+## Automated Findings
+
+| Rule | Impact | Description |
+|---|---|---|
+| color-contrast | moderate | Some text does not meet contrast requirements. |
+| image-alt | serious | Decorative or meaningful images are missing alt text. |
+
+## Manual Checklist
+
+- Focus Not Obscured: Not checked
+- Dragging Movements: Not checked
+- Accessible Authentication: Not checked
